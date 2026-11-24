@@ -1,0 +1,5 @@
+*.v2
+*.vsidx
+/.vs/ProductClientHub.slnx/v18
+*.json
+*.dll
