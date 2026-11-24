@@ -1,0 +1,13 @@
+E:\Dev\ProductClientHub\ProductClientHub.Communication\bin\Debug\net10.0\ProductClientHub.Communication.deps.json
+E:\Dev\ProductClientHub\ProductClientHub.Communication\bin\Debug\net10.0\ProductClientHub.Communication.dll
+E:\Dev\ProductClientHub\ProductClientHub.Communication\bin\Debug\net10.0\ProductClientHub.Communication.pdb
+E:\Dev\ProductClientHub\ProductClientHub.Communication\obj\Debug\net10.0\ProductClientHub.Communication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\ProductClientHub\ProductClientHub.Communication\obj\Debug\net10.0\ProductClientHub.Communication.AssemblyInfoInputs.cache
+E:\Dev\ProductClientHub\ProductClientHub.Communication\obj\Debug\net10.0\ProductClientHub.Communication.AssemblyInfo.cs
+E:\Dev\ProductClientHub\ProductClientHub.Communication\obj\Debug\net10.0\ProductClientHub.Communication.csproj.CoreCompileInputs.cache
+E:\Dev\ProductClientHub\ProductClientHub.Communication\obj\Debug\net10.0\ProductClientHub.Communication.dll
+E:\Dev\ProductClientHub\ProductClientHub.Communication\obj\Debug\net10.0\refint\ProductClientHub.Communication.dll
+E:\Dev\ProductClientHub\ProductClientHub.Communication\obj\Debug\net10.0\ProductClientHub.Communication.pdb
+E:\Dev\ProductClientHub\ProductClientHub.Communication\obj\Debug\net10.0\ref\ProductClientHub.Communication.dll
+E:\Dev\ProductClientHub\ProductClientHub.Communication\obj\Debug\net10.0\ProductC.BE77A126.Up2Date
+E:\Dev\ProductClientHub\ProductClientHub.Communication\obj\Debug\net10.0\ProductClientHub.Communication.csproj.AssemblyReference.cache

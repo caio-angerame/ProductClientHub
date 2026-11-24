@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dev\\ProductClientHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6C7536-658B-C356-9640-8CF88E73AC34}|ProductClientHub.API\\ProductClientHub.API.csproj|e:\\dev\\productclienthub\\productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6C7536-658B-C356-9640-8CF88E73AC34}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6C7536-658B-C356-9640-8CF88E73AC34}|ProductClientHub.API\\ProductClientHub.API.csproj|e:\\dev\\productclienthub\\productclienthub.api\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6C7536-658B-C356-9640-8CF88E73AC34}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8970D46D-40F2-EBBA-03BC-10EC0DEC42D7}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|e:\\dev\\productclienthub\\productclienthub.exceptions\\exceptionsbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8970D46D-40F2-EBBA-03BC-10EC0DEC42D7}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|solutionrelative:productclienthub.exceptions\\exceptionsbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8970D46D-40F2-EBBA-03BC-10EC0DEC42D7}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|e:\\dev\\productclienthub\\productclienthub.exceptions\\exceptionsbase\\productclienthubexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8970D46D-40F2-EBBA-03BC-10EC0DEC42D7}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|solutionrelative:productclienthub.exceptions\\exceptionsbase\\productclienthubexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorOnValidationException.cs",
+              "DocumentMoniker": "E:\\Dev\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "ToolTip": "E:\\Dev\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "RelativeToolTip": "ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T17:44:55.129Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductClientHubException.cs",
+              "DocumentMoniker": "E:\\Dev\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ProductClientHubException.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.Exceptions\\ExceptionsBase\\ProductClientHubException.cs",
+              "ToolTip": "E:\\Dev\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ProductClientHubException.cs",
+              "RelativeToolTip": "ProductClientHub.Exceptions\\ExceptionsBase\\ProductClientHubException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T17:09:26.116Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterClientUseCase.cs",
+              "DocumentMoniker": "E:\\Dev\\ProductClientHub\\ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "ToolTip": "E:\\Dev\\ProductClientHub\\ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "RelativeToolTip": "ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T19:59:37.691Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "E:\\Dev\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "ToolTip": "E:\\Dev\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T00:25:00.573Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
