@@ -1,5 +1,9 @@
-*.v2
-*.vsidx
-/.vs/ProductClientHub.slnx/v18
-*.json
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
 *.dll
+*.exe
+*.pdb
