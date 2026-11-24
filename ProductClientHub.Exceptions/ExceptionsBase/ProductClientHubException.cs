@@ -6,5 +6,7 @@
         {
             
         }
+
+        public abstract List<string> GetErrors();
     }
 }

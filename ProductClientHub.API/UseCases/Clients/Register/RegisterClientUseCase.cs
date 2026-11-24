@@ -16,7 +16,7 @@ namespace ProductClientHub.API.UseCases.Clients.Register
             {
                 var errors = result.Errors.Select(failure => failure.ErrorMessage).ToList();
 
-                throw new ErrorOnValidationException();
+                throw new ErrorOnValidationException(errors);
             }
 
                 // CONTINUA A REGRA DE NEGÓCIO

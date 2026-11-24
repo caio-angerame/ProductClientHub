@@ -7,5 +7,7 @@
         {
             _errors = errorMessages;
         }
+
+        public override List<string> GetErrors() => _errors;
     }
 }
