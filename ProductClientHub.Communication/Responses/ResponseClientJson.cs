@@ -3,6 +3,6 @@
     public class ResponseClientJson
     {
         public Guid Id { get; set; }
-        public string Nome { get; set; } = string.Empty;
+        public string Name { get; set; } = string.Empty;
     }
 }
